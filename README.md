@@ -7,7 +7,7 @@ git clone the repo using
 
 `git clone https://github.com/RobotrekTT/Finals`
 
-run the model.bash in the tags folder using
+run the model.bash in the Tags folder using
 
 `./model.bash`
 
