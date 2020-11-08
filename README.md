@@ -14,7 +14,7 @@ run the model.bash in the Tags folder using
 
 ## Problem Statement:
 
-Read the problem statement from the pdf file: 'Robotrek Finals.pdf'
+Read the problem statement from https://docs.google.com/document/d/1NCuoMtHe-vR9_dfq4fveFkx4iSKZ03Qzr-qtx75cmsE/edit
 
 ## Using the world file:
 
